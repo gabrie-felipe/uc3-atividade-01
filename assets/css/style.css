@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+.center{
+text-align: center;
+}
+h1{
+    font-family: fantasy;
+}
+h2 {
+    font-family: cursive;
+    font-size: 30px;
+}
